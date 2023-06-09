@@ -1,4 +1,11 @@
-### Hi there 👋
+## Steve Schrab
+### Front End Developer
+
+#### Salesforce/LWC Related Gists
+
+ - [LWC/Apex User Debug Mode Console Logs](https://gist.github.com/megasmack/0d78fc6044122aa333c6668abf1a5800)
+ - [LWC Dependent Pick List Example](https://gist.github.com/megasmack/8e60d139b023057741ff09ee7d9cf9ec)
+ - [Salesforce VSCode LWC Snippets](https://gist.github.com/megasmack/fb3ac994ff61ac7c2e84614a8918ac2a)
 
 <!--
 **megasmack/megasmack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
