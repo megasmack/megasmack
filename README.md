@@ -1,7 +1,29 @@
 # Steve Schrab
-## Front End Developer
+## Front-End Developer
 
 Steve is a highly skilled Senior Front-End Developer with years of experience creating responsive and accessible websites. Proficient in HTML, CSS, JavaScript, and various front-end frameworks including Lightning Web Components, Angular/TypeScript, and React. Proven track record of building sites within Salesforce Experience Cloud and Content Management Systems like Drupal. Committed to delivering exceptional user experiences and providing mentorship to fellow developers.
+
+### Experience
+ - **Languages**
+
+   HTML, CSS (LESS/SASS), JavaScript, TypeScript, Apex, SOQL, WCAG
+
+ - **Frameworks**
+
+   Lightning Web Components, Angular, React, Bootstrap, SLDS
+
+ - **Tools & Platforms**
+
+   Git, SVN, Gulp, Grunt, Agile Development, Salesforce, Drupal
+
+#### Certifications
+
+ - **Salesforce Certified Administrator** (Aug 2022)
+ - **IBM Agile Explorer** (Jul 2022)
+ - **IBM Accessibility Advocate** (Mar 2022)
+ - **IBM Salesforce Essentials** (Jan 2022)
+ - **Salesforce Certified JavaScript Developer I** (Dec 2021)
+ - **Salesforce Certified User Experience Designer** (Dec 2021)
 
 ### Salesforce/LWC Related Gists
 
