@@ -18,12 +18,12 @@ Steve is a highly skilled Senior Front-End Developer with years of experience cr
 
 #### Certifications
 
- - **Salesforce Certified Administrator** (Aug 2022)
- - **IBM Agile Explorer** (Jul 2022)
- - **IBM Accessibility Advocate** (Mar 2022)
- - **IBM Salesforce Essentials** (Jan 2022)
  - **Salesforce Certified JavaScript Developer I** (Dec 2021)
  - **Salesforce Certified User Experience Designer** (Dec 2021)
+ - **IBM Salesforce Essentials** (Jan 2022)
+ - **IBM Accessibility Advocate** (Mar 2022)
+ - **IBM Agile Explorer** (Jul 2022)
+ - **Salesforce Certified Administrator** (Aug 2022)
 
 ### Salesforce/LWC Related Gists
 
